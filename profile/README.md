@@ -149,7 +149,7 @@ DevOps<br>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kalsteve">
-<img src="http://img.shields.io/badge/kalsteve?style=social&logo=github"/>
+<img src="http://img.shields.io/badge/kalsteve-green?style=social&logo=github"/>
 </a>
 </td>
 <td width="100" align="center">
