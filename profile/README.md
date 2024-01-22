@@ -39,8 +39,124 @@ AI를 활용한 타로
 
 # ✨ Team Member
 
-| Name | 박준서 | 이수민 | 김민지 | 김동헌 | 김민기 | 김윤기 | 설한나 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Profile | ![박준서]() | ![이수민]() | ![김민지]() | ![김동헌](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/dff90094-d5c6-439a-808a-5149d7e2faeb)| ![김민기]() | ![김윤기]() | ![설한나]() |
-| Role | Team Leader</br>Frontend | Frontend | Frontend | BE Leader</br>Backend</br>DevOps | Backend</br>DevOps | Backend</br>DevOps | Backend</br>DevOps |
-| GitHub | [JSWING5267](https://github.com/JSWING5267) | [Sum1nLee](https://github.com/Sum1nLee) | [allykim061](https://github.com/allykim061) | [heondong9265](https://github.com/heondong9265) | [kimm0302](https://github.com/kimm0302) | [kalsteve](https://github.com/kalsteve) | [hannaxannah](https://github.com/hannaxannah)|
+<table width="1000">
+<thead>
+</thead>
+<tbody>
+<tr>
+<th>Pictures</th>
+<td width="100" align="center">
+<a href="https://github.com/JSWING5267r">
+<img src="" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Sum1nLee">
+<img src="" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/allykim061">
+<img src="" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/heondong9265">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/dff90094-d5c6-439a-808a-5149d7e2faeb" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/kimm0302">
+<img src="" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/kalsteve">
+<img src="" width="60" height="60">
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/hannaxannah">
+<img src="" width="60" height="60">
+</a>
+</td>
+</tr>
+<tr>
+<th>Name</th>
+<td width="100" align="center">박준서</td>
+<td width="100" align="center">이수민</td>
+<td width="100" align="center">김민지</td>
+<td width="100" align="center">김동헌</td>
+<td width="100" align="center">김민기</td>
+<td width="100" align="center">김윤기</td>
+<td width="100" align="center">설한나</td>
+</tr>
+<tr>
+<th>Position</th>
+<td width="150" align="center">
+Frontend<br>
+Leader<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Frontend<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+<td width="150" align="center">
+Backend<br>
+DevOps<br>
+</td>
+</tr>
+<tr>
+<th>GitHub</th>
+<td width="100" align="center">
+<a href="https://github.com/JSWING5267">
+<img src="http://img.shields.io/badge/JSWING5267-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/Sum1nLee">
+<img src="http://img.shields.io/badge/Sum1nLee-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/allykim061">
+<img src="http://img.shields.io/badge/allykim061-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/heondong9265">
+<img src="http://img.shields.io/badge/heondong9265-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/kimm0302">
+<img src="http://img.shields.io/badge/kimm0302-green?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/kalsteve">
+<img src="http://img.shields.io/badge/kalsteve?style=social&logo=github"/>
+</a>
+</td>
+<td width="100" align="center">
+<a href="https://github.com/hannaxannah">
+<img src="http://img.shields.io/badge/hannaxannah-green?style=social&logo=github"/>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
