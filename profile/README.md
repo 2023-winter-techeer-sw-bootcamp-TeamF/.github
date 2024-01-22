@@ -11,7 +11,7 @@ AI를 활용한 타로
 | ![영상1](https://localhost) | ![영상2](https://localhost) |
 | **운세 설명 & 고민 작성 & 카드 뽑기 이동** | **카드 뽑기 및 결과 페이지 이동** |
 | ![영상1](https://localhost) | ![영상2](https://localhost) |
-| ** 샘플 추가 1** | ** 샘플 추가 2** |
+| **샘플 추가 1** | **샘플 추가 2** |
 | ![영상1](https://localhost) | ![영상2](https://localhost) |
 
 # ⚙ System Architecture
