@@ -135,63 +135,94 @@
   <th width="850">Description</th>
 </tr>
 <tr>
-  <th>Nginx</th>
+  <th>Nginx</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>React</th>
+  <th>React</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Node.js</th>
+  <th>Node.js</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>socket.io</th>
+  <th>socket.io</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>EC2</th>
+  <th>EC2</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Jenkins</th>
+  <th>Jenkins</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>S3</th>
+  <th>S3</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>MySQL(RDS)</th>
+  <th>MySQL(RDS)</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Prometheus</th>
+  <th>Prometheus</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Grafana</th>
+  <th>Grafana</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Filebeat</th>
+  <th>Filebeat</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Logstash</th>
+  <th>Logstash</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Elasticsearch</th>
+  <th>Elasticsearch</th>
   <td>불라</td>
 </tr>
 <tr>
-  <th>Kibana</th>
+  <th>Kibana</th>
   <td>불라</td>
 </tr>
 </tbody>
 </table>
+
+</br>
+
+# 💁‍♂️ How To Start
+
+### 1. Clone Repository
+<pre>
+$ git clone 
+$ git clone 
+</pre>
+### 2. Install Packages
+<pre>
+$ cd 
+$ npm install
+</pre>
+### 3. Set .env file
+<pre>
+.env file 내용
+</pre>
+### 4. Run Docker
+<pre>
+$ cd backend
+$ docker-compose up --build         # build images and run containers
+$ docker-compose down               # stop running containers
+$ docker-compose down -v            # stop running containers and delete its volume
+</pre>
+### 5. Local execution
+<pre>
+$ cd ../frontend
+$ npm run dev
+</pre>
 
 </br>
 
