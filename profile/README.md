@@ -218,7 +218,7 @@ $ docker-compose up --build         # build images and run containers
 $ docker-compose down               # stop running containers
 $ docker-compose down -v            # stop running containers and delete its volume
 </pre>
-### 5. Local execution
+### 5. Local Execution
 <pre>
 $ cd ../frontend
 $ npm run dev
