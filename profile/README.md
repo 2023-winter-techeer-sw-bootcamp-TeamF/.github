@@ -1,6 +1,7 @@
 # 🧙 Tairot
 
-![tairot-landing-page](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/be60fe89-c576-404e-a2d0-94b52d6b0fb5)
+![tairot-landing-page-1 5v](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b7b4e971-8ebc-4b1b-87fa-52040fa8446c)
+
 
 
 # 👩‍💻 Instruction
