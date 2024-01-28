@@ -1,5 +1,8 @@
 # 🧙 Tairot
 
+![tairot-landing-page](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/be60fe89-c576-404e-a2d0-94b52d6b0fb5)
+
+
 # 👩‍💻 Instruction
 AI를 활용한 타로
 </br>
