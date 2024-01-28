@@ -23,7 +23,7 @@ AI 타로 마스터가 여러분의 고민과 여러분이 뽑은 카드를 종�
 | ![영상1](https://localhost) | ![영상2](https://localhost) |
 
 # ⚙ System Architecture
-![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/bc758231-a8d1-4a17-8b7f-a5983c94fabc)
+![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/d8ebce4f-bacc-42fa-ac53-df14d1806ba9)
 
 # 🛠 Tech Stack
 
