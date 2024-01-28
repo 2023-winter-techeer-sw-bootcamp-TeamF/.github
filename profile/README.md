@@ -1,11 +1,13 @@
-# 🧙 Tairot
+# 🧙 TAIROT
 
 ![tairot-landing-page-1 5v](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b7b4e971-8ebc-4b1b-87fa-52040fa8446c)
 왜 이렇게 느리게 재생되고 난리냐
 
 
 # 👩‍💻 Instruction
-AI를 활용한 타로 심리 상담 서비스
+TAIROT은 AI를 활용한 타로 심리 상담 서비스입니다.<br>
+오늘의 운세, 연애운, 우정운, 재물운, 소망운 중 1개를 선택해서 여러분의 고민을 들려주세요.<br>
+AI 타로 마스터가 여러분의 고민과 여러분이 뽑은 카드를 종합적으로 분석하고 해석 결과를 제공합니다.
 </br>
 [미디움 주소](https://localhost)
 
