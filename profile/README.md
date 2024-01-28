@@ -1,7 +1,7 @@
 # 🧙 Tairot
 
 ![tairot-landing-page-1 5v](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b7b4e971-8ebc-4b1b-87fa-52040fa8446c)
-
+왜 이렇게 느리게 재생되고 난리냐
 
 
 # 👩‍💻 Instruction
