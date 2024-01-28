@@ -1,6 +1,6 @@
 # 🧙 TAIROT
 
-![tairot-landing-page-1 5v](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b7b4e971-8ebc-4b1b-87fa-52040fa8446c)
+![tairot-landing-page-1 5v](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8ba50689-cee5-4bcc-898b-7d8478df2e12)
 왜 이렇게 느리게 재생되고 난리냐
 
 
