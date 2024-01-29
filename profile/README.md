@@ -136,19 +136,22 @@
 </tr>
 <tr>
   <th>Nginx</th>
-  <td>웹서버, 프록시 서버, https 연결 등을 담당합니다.</td>
+  <td>웹 서버, 프록시 서버, https 연결 등을 담당합니다.</td>
 </tr>
 <tr>
   <th>React</th>
-  <td>불라</td>
+  <td>가이드라인 및 답변, 카드 선택, 분석 결과를 보여주고 결과 공유 링크 생성을 담당합니다.</td>
 </tr>
 <tr>
   <th>Node.js</th>
-  <td>불라</td>
+  <td>TAIROT의 서버로서 각종 요청을 처리하고 DB와 직접 소통합니다.</td>
 </tr>
 <tr>
   <th>socket.io</th>
-  <td>불라</td>
+  <td>
+    Chat GPT로부터 받은 카드별 해석 및 종합 해석을 클라이언트에 stream 형태로 전달합니다.</br>
+    TTS 어쩌구
+  </td>
 </tr>
 <tr>
   <th>EC2</th>
@@ -160,7 +163,7 @@
 </tr>
 <tr>
   <th>S3</th>
-  <td>불라</td>
+  <td>78장의 타로 카드 정보(번호, 영문 이름, 한글 이름, 이미지 url)를 저장합니다.</td>
 </tr>
 <tr>
   <th>MySQL(RDS)</th>
