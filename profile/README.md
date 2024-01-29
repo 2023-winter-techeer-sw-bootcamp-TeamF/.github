@@ -147,7 +147,7 @@
   <td>TAIROT의 서버로서 각종 요청을 처리하고 DB와 직접 소통합니다.</td>
 </tr>
 <tr>
-  <th>socket.io</th>
+  <th>Socket.IO</th>
   <td>
     Chat GPT로부터 받은 카드별 해석 및 종합 해석을 클라이언트에 stream 형태로 전달합니다.</br>
     TTS 어쩌구
