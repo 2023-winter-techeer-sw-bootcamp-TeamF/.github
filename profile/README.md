@@ -197,32 +197,6 @@
 
 # 💁‍♂️ How To Start
 
-### 1. Clone Repository
-<pre>
-$ git clone 
-$ git clone 
-</pre>
-### 2. Install Packages
-<pre>
-$ cd 
-$ npm install
-</pre>
-### 3. Set .env file
-<pre>
-.env file 내용
-</pre>
-### 4. Run Docker
-<pre>
-$ cd backend
-$ docker-compose up --build         # build images and run containers
-$ docker-compose down               # stop running containers
-$ docker-compose down -v            # stop running containers and delete its volume
-</pre>
-### 5. Local Execution
-<pre>
-$ cd ../frontend
-$ npm run dev
-</pre>
 
 </br>
 
