@@ -131,12 +131,12 @@
 <table width="1000">
 <tbody>
 <tr>
-  <th width="150">Name</th>
-  <th width="850">Description</th>
+  <th width="200">Name</th>
+  <th width="800">Description</th>
 </tr>
 <tr>
   <th>Nginx</th>
-  <td>불라</td>
+  <td>웹서버, 프록시 서버, https 연결 등을 담당합니다.</td>
 </tr>
 <tr>
   <th>React</th>
@@ -164,31 +164,31 @@
 </tr>
 <tr>
   <th>MySQL(RDS)</th>
-  <td>불라</td>
+  <td>Database</td>
 </tr>
 <tr>
   <th>Prometheus</th>
-  <td>불라</td>
+  <td>Node.js의 메트릭 데이터를 수집하여 모니터링 합니다.</td>
 </tr>
 <tr>
   <th>Grafana</th>
-  <td>불라</td>
+  <td>Prometheus로부터 받은 메트릭 데이터 등을 시각화하여 대시보드를 구성합니다.</td>
 </tr>
 <tr>
   <th>Filebeat</th>
-  <td>불라</td>
+  <td>Nginx의 로그파일을 Filebeat로 수집합니다.</td>
 </tr>
 <tr>
   <th>Logstash</th>
-  <td>불라</td>
+  <td>Filebeat로 수집한 로그를 Logstash에 전달합니다.</td>
 </tr>
 <tr>
   <th>Elasticsearch</th>
-  <td>불라</td>
+  <td>Logstash로부터 전달 받은 로그를 Elasticsearch에 저장합니다.</td>
 </tr>
 <tr>
   <th>Kibana</th>
-  <td>불라</td>
+  <td>Elasticsearch에 저장된 로그를 Kibana를 통해 분석 및 시각화합니다.</td>
 </tr>
 </tbody>
 </table>
