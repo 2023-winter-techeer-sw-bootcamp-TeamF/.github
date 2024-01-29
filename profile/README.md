@@ -1,4 +1,8 @@
 # 🧙 TAIROT
+
+![배너-1](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/190fa2ab-84d2-496b-b114-61e711e5467e)
+
+
 ![tairot-landing-page-original-_online-video-cutter com_](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/f71b4f8a-72b3-45e3-bd8d-61d3b0467207)
 
 </br>
