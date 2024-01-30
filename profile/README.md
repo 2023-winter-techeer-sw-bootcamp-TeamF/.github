@@ -217,17 +217,17 @@
 <th>Pictures</th>
 <td width="100" align="center">
 <a href="https://github.com/JSWING5267r">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/71a8b5b0-6c5d-4182-ac76-0b0eb865719a" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/Sum1nLee">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/9869eaa2-e7c5-4520-a254-db1fc2aa8991" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/allykim061">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/fc15c8b8-881b-4637-8ad9-d01efb1f9a8d" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
@@ -237,17 +237,17 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kimm0302">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/6864790b-3328-49bb-b523-d31a1336595d" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kalsteve">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/b5493d14-d48a-4285-ad7d-c7edb4996d7d" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/hannaxannah">
-<img src="" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/0d94107a-b337-47d2-acc3-8c98c58f9f85" width="60" height="60">
 </a>
 </td>
 </tr>
