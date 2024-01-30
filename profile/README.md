@@ -237,12 +237,12 @@
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kimm0302">
-<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/6864790b-3328-49bb-b523-d31a1336595d" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/131cac6a-5bef-4f09-bbb5-7a40cee985dd" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
 <a href="https://github.com/kalsteve">
-<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/b5493d14-d48a-4285-ad7d-c7edb4996d7d" width="60" height="60">
+<img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/ef01502c-1995-4fe1-8733-4a456a4a00ea" width="60" height="60">
 </a>
 </td>
 <td width="100" align="center">
