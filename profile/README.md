@@ -29,11 +29,11 @@
 
 <table width="1000">
 <tr>
-  <th width="500">메인화면 & 로그인 & 회원가입</th>
+  <th width="500">랜딩 & 로그인 & 회원가입</th>
   <th width="500">운세별 카테고리 선택</th>
 </tr>
 <tr >
-  <td><a href="https://localhost"><img src="" alt="[영상1]" width="500"/></a></td>
+  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8a9f9438-16a8-409a-8199-4f2977f61dee" alt="[영상1]" width="500"/></a></td>
   <td><a href="https://localhost"><img src="" alt="[영상2]" width="500"/></a></td>
 </tr>
 <tr>
