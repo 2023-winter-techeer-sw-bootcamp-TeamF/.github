@@ -48,7 +48,7 @@
   <th>카드 뽑기 & 분석 결과</th>
 </tr>
 <tr>
-  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/9d3869ee-ad3a-4fba-9645-9c54bc44a3a8" alt="[영상4]"/></a></td>
+  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/718b4d52-788d-48a3-91e8-cd3f7051d834" alt="[영상4]"/></a></td>
 </tr>
 <tr>
   <th>결과 공유</th>
