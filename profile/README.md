@@ -42,22 +42,19 @@
   <th>가이드라인 & 고민 작성</th>
 </tr>
 <tr>
-  <td><a href=""><img src="" alt="[영상3]"/></a></td>
+  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/cc8d4dad-be74-46f2-b171-cc15025fa551" alt="[영상3]"/></a></td>
 </tr>
 <tr>
   <th>카드 뽑기 & 분석 결과</th>
 </tr>
 <tr>
-  <td><a href=""><img src="" alt="[영상4]"/></a></td>
+  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/9d3869ee-ad3a-4fba-9645-9c54bc44a3a8" alt="[영상4]"/></a></td>
 </tr>
 <tr>
   <th>결과 공유</th>
 </tr>
 <tr>
-  <td>
-    <a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b60d265c-ec65-43b0-821d-cfb688f91031" alt="[영상5]"/></a>
-    </BR> ㅜㅜ 화질구지,, 방법 좀 더 생각해볼궤
-  </td>
+  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/598f16cf-df72-40ea-a488-f190bfce70b4" alt="[영상5]"/></a></td>
 </tr>
 <tr>
   <th>마이페이지 리스트 & 결과 상세조회</th>
