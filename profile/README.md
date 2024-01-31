@@ -27,28 +27,43 @@
 
 <table width="1000">
 <tr>
-  <th width="500">랜딩 & 로그인 & 회원가입</th>
-  <th width="500">운세별 카테고리 선택</th>
-</tr>
-<tr >
-  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8a9f9438-16a8-409a-8199-4f2977f61dee" alt="[영상1]"/></a></td>
-  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/f26f6691-d423-4a09-bc2c-2c66a7d2c5f5" alt="[영상2]"/></a></td>
+  <th>랜딩 & 로그인 & 회원가입</th>
 </tr>
 <tr>
-  <th>운세 설명 & 고민 작성 & 카드 뽑기 이동</th>
-  <th>카드 뽑기 및 결과 페이지 이동</th>
+  <td><a href="https://tairot.online"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8a9f9438-16a8-409a-8199-4f2977f61dee" alt="[영상1]"/></a></td>
 </tr>
 <tr>
-  <td><a href="https://localhost"><img src="" alt="[영상3]"/></a></td>
-  <td><a href="https://localhost"><img src="" alt="[영상4]"/></a></td>
+  <th>운세 카테고리 & 운 선택</th>
 </tr>
 <tr>
-  <th>샘플 추가 1</th>
-  <th>샘플 추가 2</th>
+  <td><a href="https://tairot.online/fortuneselect"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/f26f6691-d423-4a09-bc2c-2c66a7d2c5f5" alt="[영상2]"/></a></td>
 </tr>
 <tr>
-  <td><a href="https://localhost"><img src="" alt="[영상5]"/></a></td>
-  <td><a href="https://localhost"><img src="" alt="[영상6]"/></a></td>
+  <th>가이드라인 & 고민 작성</th>
+</tr>
+<tr>
+  <td><a href=""><img src="" alt="[영상3]"/></a></td>
+</tr>
+<tr>
+  <th>카드 뽑기</th>
+</tr>
+<tr>
+  <td><a href=""><img src="" alt="[영상4]"/></a></td>
+</tr>
+<tr>
+  <th>타로 상담 결과 공유</th>
+</tr>
+<tr>
+  <td>
+    <a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/b60d265c-ec65-43b0-821d-cfb688f91031" alt="[영상5]"/></a>
+    </BR> ㅜㅜ 화질구지,, 방법 좀 더 생각해볼궤
+  </td>
+</tr>
+<tr>
+  <th>마이페이지 리스트 & 결과 상세조회</th>
+</tr>
+<tr>
+  <td><a href=""><img src="" alt="[영상6]"/></a></td>
 </tr>
 </table>
 
