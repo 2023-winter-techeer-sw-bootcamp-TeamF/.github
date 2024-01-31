@@ -1,9 +1,7 @@
 # 🧙 TAIROT
 
-![배너-1](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/190fa2ab-84d2-496b-b114-61e711e5467e)
+![배너-2](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/7b48e3ed-bfbb-467b-8344-0a753d043a6b)
 
-
-![tairot-landing-page-original-_online-video-cutter com_](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/f71b4f8a-72b3-45e3-bd8d-61d3b0467207)
 
 </br>
 
@@ -33,24 +31,24 @@
   <th width="500">운세별 카테고리 선택</th>
 </tr>
 <tr >
-  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8a9f9438-16a8-409a-8199-4f2977f61dee" alt="[영상1]" width="500"/></a></td>
-  <td><a href="https://localhost"><img src="" alt="[영상2]" width="500"/></a></td>
+  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/8a9f9438-16a8-409a-8199-4f2977f61dee" alt="[영상1]"/></a></td>
+  <td><a href="https://localhost"><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/f26f6691-d423-4a09-bc2c-2c66a7d2c5f5" alt="[영상2]"/></a></td>
 </tr>
 <tr>
-  <th width="500">운세 설명 & 고민 작성 & 카드 뽑기 이동</th>
-  <th width="500">카드 뽑기 및 결과 페이지 이동</th>
+  <th>운세 설명 & 고민 작성 & 카드 뽑기 이동</th>
+  <th>카드 뽑기 및 결과 페이지 이동</th>
 </tr>
 <tr>
-  <td><a href="https://localhost"><img src="" alt="[영상3]" width="500"/></a></td>
-  <td><a href="https://localhost"><img src="" alt="[영상4]" width="500"/></a></td>
+  <td><a href="https://localhost"><img src="" alt="[영상3]"/></a></td>
+  <td><a href="https://localhost"><img src="" alt="[영상4]"/></a></td>
 </tr>
 <tr>
-  <th width="500">샘플 추가 1</th>
-  <th width="500">샘플 추가 2</th>
+  <th>샘플 추가 1</th>
+  <th>샘플 추가 2</th>
 </tr>
 <tr>
-  <td><a href="https://localhost"><img src="" alt="[영상5]" width="500"/></a></td>
-  <td><a href="https://localhost"><img src="" alt="[영상6]" width="500"/></a></td>
+  <td><a href="https://localhost"><img src="" alt="[영상5]"/></a></td>
+  <td><a href="https://localhost"><img src="" alt="[영상6]"/></a></td>
 </tr>
 </table>
 
