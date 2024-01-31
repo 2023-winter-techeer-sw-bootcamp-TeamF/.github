@@ -54,7 +54,7 @@
   <th>결과 공유</th>
 </tr>
 <tr>
-  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/598f16cf-df72-40ea-a488-f190bfce70b4" alt="[영상5]"/></a></td>
+  <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/9a508646-bb38-4bea-93bb-3be35cbe633d" alt="[영상5]"/></a></td>
 </tr>
 <tr>
   <th>마이페이지 리스트 & 결과 상세조회</th>
