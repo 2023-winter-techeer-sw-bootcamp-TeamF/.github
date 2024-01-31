@@ -45,13 +45,13 @@
   <td><a href=""><img src="" alt="[영상3]"/></a></td>
 </tr>
 <tr>
-  <th>카드 뽑기</th>
+  <th>카드 뽑기 & 분석 결과</th>
 </tr>
 <tr>
   <td><a href=""><img src="" alt="[영상4]"/></a></td>
 </tr>
 <tr>
-  <th>타로 상담 결과 공유</th>
+  <th>결과 공유</th>
 </tr>
 <tr>
   <td>
