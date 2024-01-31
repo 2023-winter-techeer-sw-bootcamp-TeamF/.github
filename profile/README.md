@@ -67,7 +67,8 @@
 </br>
 
 # ⚙ System Architecture
-![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/e5f6c90e-7b8e-4ac1-80b0-bcd36db2d4f4)
+![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/28e4d46c-74d1-4089-b118-4f1a86f124ff)
+
 
 </br>
 
