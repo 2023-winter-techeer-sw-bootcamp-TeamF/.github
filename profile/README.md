@@ -62,6 +62,15 @@
 <tr>
   <td><a href=""><img src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/19b7ada7-28cc-4c93-bc9a-2b5f83a17c16" alt="[영상6]"/></a></td>
 </tr>
+  <tr>
+    <th>이미지 사용 출처</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.freepik.com/free-vector/mystical-golden-frame-black-background_16330785.htm">Image by rawpixel.com</a> on Freepik</br>
+      <a href="https://www.freepik.com/free-vector/hand-drawn-mystical-tarot-mobile-wallpaper_21862422.htm">Image by pikisuperstar.com</a> on Freepik</br>
+    </td>
+  </tr>
 </table>
 
 </br>
