@@ -204,19 +204,19 @@
 </tr>
 <tr>
   <th>Filebeat</th>
-  <td>Nginx의 로그파일을 Filebeat로 수집합니다.</td>
+  <td>서버의 로그를 수집하여 Logstash로 전달합니다.</td>
 </tr>
 <tr>
   <th>Logstash</th>
-  <td>Filebeat로 수집한 로그를 Logstash에 전달합니다.</td>
+  <td>Filebeat로 수집된 데이터를 처리하고 Elasticsearch로 전송하는 역할을 담당합니다.</td>
 </tr>
 <tr>
   <th>Elasticsearch</th>
-  <td>Logstash로부터 전달 받은 로그를 Elasticsearch에 저장합니다.</td>
+  <td>Logstash로부터 전달 받은 데이터를 저장합니다.</td>
 </tr>
 <tr>
   <th>Kibana</th>
-  <td>Elasticsearch에 저장된 로그를 Kibana를 통해 분석 및 시각화합니다.</td>
+  <td>lasticsearch에 저장된 로그 데이터를 분석하고 시각화합니다.</td>
 </tr>
 </tbody>
 </table>
