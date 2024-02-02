@@ -133,9 +133,10 @@
 
 </br>
 
-# 💾 Database
+# 💾 ERD
 
-![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/5ae2252f-5733-45cc-aba9-72d3f04158b1)
+<img width="778" alt="스크린샷 2024-02-02 오후 11 38 36" src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/08398241-2381-4802-acdb-2bba0a1a5641">
+
 
 </br>
 
@@ -183,7 +184,7 @@
 </tr>
 <tr>
   <th>Jenkins</th>
-  <td>CI/CD 자동화를 담당합니다.</td>
+  <td>CI/CD 자동화를 담당하고 빌드 결과를 실시간으로 슬랙에 전달합니다.</td>
 </tr>
 <tr>
   <th>Docker</th>
@@ -194,16 +195,12 @@
   <td>78장의 타로 카드 정보(번호, 영문 이름, 한글 이름, 이미지 url)를 저장합니다.</td>
 </tr>
 <tr>
-  <th>MySQL(RDS)</th>
-  <td>Database</td>
-</tr>
-<tr>
   <th>Prometheus</th>
   <td>Node.js의 메트릭 데이터를 수집하여 모니터링 합니다.</td>
 </tr>
 <tr>
   <th>Grafana</th>
-  <td>Prometheus로부터 받은 메트릭 데이터 등을 시각화하여 대시보드를 구성합니다.</td>
+  <td>Prometheus로부터 받은 메트릭 데이터 등을 시각화하여 대시보드를 구성하며 모니터링 중 성능 이슈 발생 시 실시간으로 슬랙에 경고 알람을 전달합니다.</td>
 </tr>
 <tr>
   <th>Filebeat</th>
