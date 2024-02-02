@@ -76,7 +76,7 @@
 </br>
 
 # ⚙ System Architecture
-![image](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/106370941/28e4d46c-74d1-4089-b118-4f1a86f124ff)
+<img width="1000" alt="스크린샷 2024-02-02 오후 11 38 36" src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/08398241-2381-4802-acdb-2bba0a1a5641">
 
 
 </br>
@@ -135,7 +135,7 @@
 
 # 💾 ERD
 
-<img width="778" alt="스크린샷 2024-02-02 오후 11 38 36" src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/08398241-2381-4802-acdb-2bba0a1a5641">
+<img width="1279" alt="스크린샷 2024-02-03 오전 12 47 06" src="https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/9fbf3553-1a60-4d6b-8872-b4e50c09cddf">
 
 
 </br>
