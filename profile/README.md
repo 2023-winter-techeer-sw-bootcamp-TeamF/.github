@@ -161,14 +161,14 @@
 </tr>
 <tr>
   <th>Nginx</th>
-  <td>웹 서버, 프록시 서버, https 연결 등을 담당합니다.</td>
+  <td>웹 서버, 프록시 서버 연결 및 SSL/TLS 등을 담당합니다.</td>
 </tr>
 <tr>
   <th>React</th>
-  <td>운세 별 가이드라인, 카드 선택, 분석 결과를 보여주고 결과 공유 링크 생성을 담당합니다.</td>
+  <td>컴포넌트 기반으로 코드 재사용성을 높이는 프론트엔드 라이브러리입니다.</td>
 </tr>
 <tr>
-  <th>Node.js</th>
+  <th>Node.js(Express.js)</th>
   <td>TAIROT의 서버로서 각종 요청을 처리하고 DB와 직접 소통합니다.</td>
 </tr>
 <tr>
