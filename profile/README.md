@@ -2,7 +2,7 @@
 
 ![배너-2](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/7b48e3ed-bfbb-467b-8344-0a753d043a6b)
 
-##### URL: [tairot.online](**(https://tairot.online/)**) 2024.02.03 
+##### URL: [tairot.online](**https://tairot.online/**) 2024.02.03 
 </br>
 
 # 👩‍💻 Instruction
