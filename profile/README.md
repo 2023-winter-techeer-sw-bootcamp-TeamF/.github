@@ -1,9 +1,12 @@
 # 🧙 TAIROT
-
+### <p align = center>🎉 2023 Techeer S/W Winter BootCamp 2등 🎉<p>
 ![배너-2](https://github.com/2023-winter-techeer-sw-bootcamp-TeamF/.github/assets/134985004/7b48e3ed-bfbb-467b-8344-0a753d043a6b)
+<div align = center>
 
-##### URL: [tairot.online](**https://tairot.online/**) 2024.02.03 
-</br>
+### Visit Our Service: [tairot.online](https://tairot.online/) 2024.02.03
+
+<br>
+</div>
 
 # 👩‍💻 Instruction
 ### TAIROT은 AI를 활용한 타로 심리 상담 서비스입니다.
